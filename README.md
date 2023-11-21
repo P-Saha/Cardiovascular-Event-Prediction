@@ -2,7 +2,7 @@
 Abdulaziz Sherif, Priyonto Saha, Rohini Datta
 
 ## Introduction
-Cardiovascular disease refers to health conditions impacting the blood circulatory system.1 Given its prevalence globally, this study aimed to explore the factors associated with the occurrence of a cardiovascular event (heart disease, stroke, and/or hypertension). This study also aimed to explore the health factors and lifestyle factors associated with mortality among patients with heart failure.
+Cardiovascular disease refers to health conditions impacting the blood circulatory system. Given its prevalence globally, this study aimed to explore the factors associated with the occurrence of a cardiovascular event (heart disease, stroke, and/or hypertension). This study also aimed to explore the health factors and lifestyle factors associated with mortality among patients with heart failure.
 
 ## Data Engineering Process
 The Cardiovascular Event dataset (CED) and the Mortality for Cardiovascular Disease Complications dataset (MD) were used to analyze the first and second objective, respectively. We started with an initial exploratory data analysis which consisted of missing data analysis, summary statistics, pairwise contingency matrices for categorical predictors, and a correlation matrix for continuous predictors. Histograms were plotted to visualize the distribution of the predictors, along with histograms for the distribution of continuous predictions subpopulations stratified by the categorical predictors.
