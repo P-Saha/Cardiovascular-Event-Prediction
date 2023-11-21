@@ -1,4 +1,4 @@
-# Datathon 2: Early Prediction of Cardiovascular Events using Logistic Regression
+# Early Prediction of Cardiovascular Events using Logistic Regression
 Abdulaziz Sherif, Priyonto Saha, Rohini Datta
 
 ## Introduction
